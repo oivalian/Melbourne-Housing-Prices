@@ -16,3 +16,6 @@ Once I wrap my head around more ML, I intend to make a few projects that are wea
 ### Dataset
 
 This model uses Tony Pino's [Melbourne Housing Market](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market/discussion/53664) from [Kaggle](https://www.kaggle.com/).
+
+> [!IMPORTANT]
+> The dataset has a few typos in the feature names for 'Latitude' and 'Longitude'. These will need to be correct before using this model.
