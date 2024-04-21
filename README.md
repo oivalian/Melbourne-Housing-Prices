@@ -2,7 +2,7 @@
 Predict Melbourne house prices based on data from 2016 - 2018 sales.
 
 > [!CAUTION]
->  This model will not accurately predict current housing prices and is only relevant to data from October 2018.
+>  This model will not efficiently predict current housing prices and is only relevant to data from October 2018.
 
 ## Information
 
